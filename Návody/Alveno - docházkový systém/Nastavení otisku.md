@@ -1,0 +1,35 @@
+---
+vytvořeno: 2023-04-11T09:48
+oddíl: "Nastavení otisku"
+zdroj: "OneNote / Návody/Alveno - docházkový systém / Nastavení otisku"
+tags:
+  - onenote-import
+  - k-revizi
+---
+**ALVENO**
+
+[https://klient.alveno.cz/](https://klient.alveno.cz/)
+
+ict@nobilis.cz
+
+QWE987asd654
+
+Nastavení otisku :
+
+Na jednotlivém terminálu přihlásit pomocí servisní karty
+
+Vyhledat zaměstnance a nastavit otisk
+
+Pokud je potřeba zaznamenávat příchod/odchod na jiném terminálu než je vytvořen otisk, lze v upravit v prostředí Alvena :
+
+Po přihlášení v záložce provozy vyhledat zaměstnance.
+
+Pokud v části Identifikační údaje Počet otisků ukazuje 0, je nutné provést akci Načíst ze čtečky
+
+![[Nastavení otisku - image0.png]]
+
+Pak můžeme změnit nastavení autorizace čtečky a změnit na požadovaném terminálu způsob ověření :
+
+![[Nastavení otisku - Nepojmenovaný obrázek.png]]
+
+![](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iaGVpZ2h0OiAxMzguNzlweDsgbGVmdDogLTMuNTlweDsgcG9pbnRlci1ldmVudHM6IG5vbmU7IHBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAtMi42MXB4OyB3aWR0aDogNy45OHB4OyIgdmlld2JveD0iLTMuNTkgLTIuNjEgNy45OCAxMzguNzkiPjxwYXRoIGQ9Ik0gLTEgMCBsIDAgMCIgZmlsbD0ibm9uZSIgb3BhY2l0eT0iMS4wMCIgc3Ryb2tlPSJyZ2IoMjMxLCAxOCwgMzcpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iNCI+PC9wYXRoPjxwYXRoIGQ9Ik0gLTEgMzMgbCAwIDAiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjEuMDAiIHN0cm9rZT0icmdiKDIzMSwgMTgsIDM3KSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjQiPjwvcGF0aD48cGF0aCBkPSJNIC0xIDY4IGwgMCAwIiBmaWxsPSJub25lIiBvcGFjaXR5PSIxLjAwIiBzdHJva2U9InJnYigyMzEsIDE4LCAzNykiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI0Ij48L3BhdGg+PHBhdGggZD0iTSAwIDk4IGwgMCAwIiBmaWxsPSJub25lIiBvcGFjaXR5PSIxLjAwIiBzdHJva2U9InJnYigyMzEsIDE4LCAzNykiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI0Ij48L3BhdGg+PHBhdGggZD0iTSAwIDEzMiBsIC0wLjI2IC0wLjI2IiBmaWxsPSJub25lIiBvcGFjaXR5PSIxLjAwIiBzdHJva2U9InJnYigyMzEsIDE4LCAzNykiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI0Ij48L3BhdGg+PC9zdmc+)

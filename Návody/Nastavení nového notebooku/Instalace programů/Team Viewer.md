@@ -1,0 +1,31 @@
+---
+vytvořeno: 2023-03-02T13:36
+oddíl: "Instalace programů"
+zdroj: "OneNote / Návody/Nastavení nového notebooku / Instalace programů"
+tags:
+  - onenote-import
+  - k-revizi
+---
+Stažení z webu : [Team Viewer](https://www.teamviewer.com/cs/)
+
+- ⚠️ při instalaci zaškrtnout bezobslužný přístup
+
+- ⚠️ Doplňky / možnosti
+
+![[Instalace programů - TeamViewer.PNG]]
+
+- ⚠️ Přiřadit toto zařízení : ict@nobilis.cz
+
+( schválení na mailu ict… )
+
+- ⚠️ Správa uživatelů
+
+Nastavení jména a správné skupiny zařazení ( nobilis )
+
+![](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iaGVpZ2h0OiA1NXB4OyBsZWZ0OiAzNTguMzVweDsgcG9pbnRlci1ldmVudHM6IG5vbmU7IHBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiA0MTEuNTlweDsgd2lkdGg6IDEwM3B4OyIgdmlld2JveD0iMzU4LjM1IDQxMS41OSAxMDMgNTUiPjxwYXRoIGQ9Ik0gNDU3IDQzOCBsIC0wLjM4IC0zLjAyIC0xLjEzIC0yLjk1IC0xLjg1IC0yLjg3IC0yLjU3IC0yLjcyIC0zLjI1IC0yLjUzIC0zLjgyIC0yLjM0IC00LjM4IC0yLjA0IC00Ljg4IC0xLjc4IC01LjI5IC0xLjQ3IC01LjYzIC0xLjEgLTUuODIgLTAuNzYgLTUuOTcgLTAuMzggLTYuMDUgMCAtNS45NyAwLjM4IC01LjgyIDAuNzYgLTUuNjMgMS4xIC01LjI1IDEuNDcgLTQuODggMS43OCAtNC40MiAyLjA0IC0zLjgyIDIuMzQgLTMuMjUgMi41MyAtMi41NyAyLjcyIC0xLjg1IDIuODcgLTEuMTMgMi45NSAtMC4zOCAzLjAyIDAuMzggMy4wMiAxLjEzIDIuOTUgMS44NSAyLjg3IDIuNTcgMi43MiAzLjI1IDIuNTMgMy44MiAyLjM0IDQuNDIgMi4wOCA0Ljg4IDEuNzQgNS4yNSAxLjQ3IDUuNjMgMS4xIDUuODIgMC43NiA1Ljk3IDAuMzggNi4wNSAwIDUuOTcgLTAuMzggNS44MiAtMC43NiA1LjYzIC0xLjEgNS4yOSAtMS40NyA0Ljg4IC0xLjc0IDQuMzggLTIuMDggMy44MiAtMi4zNCAzLjI1IC0yLjUzIDIuNTcgLTIuNzIgMS44NSAtMi44NyAxLjEzIC0yLjk1IDAuMzggLTMuMDIiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjEuMDAiIHN0cm9rZT0icmdiKDIzMSwgMTgsIDM3KSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjQiPjwvcGF0aD48L3N2Zz4=)
+
+Jitka :
+
+262209517
+
+r11rsqs
