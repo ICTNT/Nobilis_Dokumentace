@@ -6,24 +6,24 @@ tags:
   - onenote-import
   - k-revizi
 ---
-| Název tagu | Typ | Povinný | Popis |   |
-|---|---|---|---|---|
-| PRODUCT_ID | String | ano | databázové ID produktu | MoneyS4 |
-| TITLE | String | ano | název produktu | MoneyS4 |
-| PRICE | Float, \>=0 | ano | cena produktu včetně DPH | Přes API |
-| URL | String | ano | URL produktu | Přes API - pole se jmenuje Curl |
-| IMAGE | String | ne | URL hlavního obrázku produktu přibližně 300px x 300px | ? |
-| DESCRIPTION | String | ne | detailní popis produktu (čistý text bez HTML tagů) | Nemáme |
-| BRAND | String | ne | výrobce (značka) produktu | Konstanta |
-| STOCK | Integer, \>=0, default:1 | ne | počet kusů produktu na skladě | Money S4 |
-| PRICE_BEFORE_DISCOUNT | Float, \>0, PRICE_BEFORE_DISCOUNT \> PRICE | ne | původní cena produktu před slevou včetně DPH | Viz PRICE |
-| PRICE_BUY | Float, \>0 | ne | nákupní cena produktu (pro analýzu marže a zisku) | \- |
-| PRICES | \[NAME, VALUE\] | ne | [speciální ceny pro různé skupiny zákazníků](https://doc.samba.ai/knowledge-base/datove-feedy/#skupiny-zakazniku-s-ruznymi-cenami), viz PRICE_CATEGORY v zákaznickém feedu | \- |
-| CATEGORYTEXT | String | ne | cesta kategorií oddělena svislítkem "\|" | Přes API funkce v SQL |
-| PRODUCT_LINE | String | ne | produktová řada | MoneyS4 - skupina produktu |
-| VARIANT | Seznam produktů | ne | Viz varianty produktů. | Musí se dořešit - naše MASTERY nesplňují požadavky ze zadání |
-| SHOW | Boolean, default: TRUE | ne | informace, jestli se má produkt propagovat | Defaultně TRUE |
-| PARAMETER | \[NAME, VALUE\] | ne | další parametry produktu,NAME nemusí být unikátní vizte příklad | Případný dovývoj |
+| Název tagu            | Typ                                        | Povinný | Popis                                                                                                                                                                      |                                                              |
+| --------------------- | ------------------------------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| PRODUCT_ID            | String                                     | ano     | databázové ID produktu                                                                                                                                                     | MoneyS4                                                      |
+| TITLE                 | String                                     | ano     | název produktu                                                                                                                                                             | MoneyS4                                                      |
+| PRICE                 | Float, \>=0                                | ano     | cena produktu včetně DPH                                                                                                                                                   | Přes API                                                     |
+| URL                   | String                                     | ano     | URL produktu                                                                                                                                                               | Přes API - pole se jmenuje Curl                              |
+| IMAGE                 | String                                     | ne      | URL hlavního obrázku produktu přibližně 300px x 300px                                                                                                                      | ?                                                            |
+| DESCRIPTION           | String                                     | ne      | detailní popis produktu (čistý text bez HTML tagů)                                                                                                                         | Nemáme                                                       |
+| BRAND                 | String                                     | ne      | výrobce (značka) produktu                                                                                                                                                  | Konstanta                                                    |
+| STOCK                 | Integer, \>=0, default:1                   | ne      | počet kusů produktu na skladě                                                                                                                                              | Money S4                                                     |
+| PRICE_BEFORE_DISCOUNT | Float, \>0, PRICE_BEFORE_DISCOUNT \> PRICE | ne      | původní cena produktu před slevou včetně DPH                                                                                                                               | Viz PRICE                                                    |
+| PRICE_BUY             | Float, \>0                                 | ne      | nákupní cena produktu (pro analýzu marže a zisku)                                                                                                                          | \-                                                           |
+| PRICES                | \[NAME, VALUE\]                            | ne      | [speciální ceny pro různé skupiny zákazníků](https://doc.samba.ai/knowledge-base/datove-feedy/#skupiny-zakazniku-s-ruznymi-cenami), viz PRICE_CATEGORY v zákaznickém feedu | \-                                                           |
+| CATEGORYTEXT          | String                                     | ne      | cesta kategorií oddělena svislítkem "\|"                                                                                                                                   | Přes API funkce v SQL                                        |
+| PRODUCT_LINE          | String                                     | ne      | produktová řada                                                                                                                                                            | MoneyS4 - skupina produktu                                   |
+| VARIANT               | Seznam produktů                            | ne      | Viz varianty produktů.                                                                                                                                                     | Musí se dořešit - naše MASTERY nesplňují požadavky ze zadání |
+| SHOW                  | Boolean, default: TRUE                     | ne      | informace, jestli se má produkt propagovat                                                                                                                                 | Defaultně TRUE                                               |
+| PARAMETER             | \[NAME, VALUE\]                            | ne      | další parametry produktu,NAME nemusí být unikátní vizte příklad                                                                                                            | Případný dovývoj                                             |
 
 Z \<[https://doc.samba.ai/knowledge-base/datove-feedy/#objednavkovy-feed](https://doc.samba.ai/knowledge-base/datove-feedy/#objednavkovy-feed)\>
 
