@@ -6,6 +6,9 @@ zdroj: "OneNote / Zaškolení v IT"
 
 Rozcestník bloku **Zaškolení v IT** převedeného z OneNote.
 
+## Testovací záložka
+
+- [[Zaškolení v IT/Testovací záložka|Testovací záložka]]
 
 ## Plán zaškolení v IT
 
