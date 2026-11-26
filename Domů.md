@@ -30,7 +30,6 @@ IT dokumentace převedená z OneNote (sdílený disk NT_IT, převod 2. 11. 2026)
 
 ## Školení
 - [[Zaškolení v IT/Zaškolení v IT – přehled|Zaškolení v IT]] (4)
-- [[Školení Alveno/Školení Alveno – přehled|Školení Alveno]] (1)
 
 ## Jak to tu funguje
 - Každý blok OneNote je složka s přehledem `… – přehled`. Oddíl s více stránkami je podsložka, oddíl s jednou stránkou je přímo poznámka.

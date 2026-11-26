@@ -20,7 +20,6 @@ Rozcestník bloku **Nastavení nového notebooku** převedeného z OneNote.
 - [[Návody/Nastavení nového notebooku/Instalace programů/Team Viewer|Team Viewer]]
 - [[Návody/Nastavení nového notebooku/Instalace programů/Acrobat Reader|Acrobat Reader]]
 - [[Návody/Nastavení nového notebooku/Instalace programů/TapCast|TapCast]]
-- [[Návody/Nastavení nového notebooku/Instalace programů/Modena|Modena]]
 - [[Návody/Nastavení nového notebooku/Instalace programů/Form-filler|Form-filler]]
 - [[Návody/Nastavení nového notebooku/Instalace programů/Validace dokladů|Validace dokladů]]
 - [[Návody/Nastavení nového notebooku/Instalace programů/Instalace programů|Instalace programů]]
